@@ -1,0 +1,38 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Editor backups
+*.bak
+*.backup
+*.tmp
+
+# Node (if using npm)
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.Python
+
+# Local development
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+/node_modules
